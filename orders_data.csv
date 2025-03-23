@@ -1,0 +1,26 @@
+OrderID,OrderDate,CustomerName,Category,SubCategory,ProductName,Quantity,UnitPrice,TotalSales,Discount,Profit,Region
+101,05-01-2024,John Doe,Electronics,Mobile,Apple iPhone 14,2,799,1598,0.1,320,North America
+102,06-01-2024,Jane Smith,Furniture,Chair,Office Chair,5,150,750,0.05,180,Europe
+103,07-01-2024,David Johnson,Electronics,Laptop,Dell XPS 13,1,1200,1200,0.08,250,Asia
+104,08-01-2024,Mary Williams,Clothing,Shoes,Nike Air Max,3,120,360,0.12,90,South America
+105,09-01-2024,Chris Brown,Furniture,Table,Wooden Table,2,300,600,0.1,150,Africa
+106,10-01-2024,Alice Johnson,Electronics,Tablet,Samsung Galaxy Tab S9,3,650,1950,0.07,400,Europe
+107,11-01-2024,Robert Wilson,Furniture,Sofa,Leather Sofa,1,900,900,0.05,220,North America
+108,12-01-2024,Linda Martinez,Clothing,Jacket,Adidas Windbreaker,4,80,320,0.1,85,Asia
+109,13-01-2024,James Anderson,Electronics,Headphones,Sony WH-1000XM5,2,350,700,0.15,130,South America
+110,14-01-2024,Patricia Thomas,Furniture,Bed,King Size Bed,1,1200,1200,0.08,300,Africa
+111,15-01-2024,Michael White,Electronics,Smartwatch,Apple Watch Series 9,2,450,900,0.1,180,Europe
+112,16-01-2024,Emily Harris,Clothing,T-shirt,Puma Cotton T-Shirt,6,30,180,0.05,40,North America
+113,17-01-2024,Daniel Lewis,Electronics,Camera,Canon EOS R5,1,3500,3500,0.1,700,Asia
+114,18-01-2024,Sophia Clark,Furniture,Cabinet,Wooden Cabinet,3,400,1200,0.07,280,South America
+115,19-01-2024,William Robinson,Clothing,Jeans,Levi's Denim Jeans,4,60,240,0.12,50,Africa
+116,20-01-2024,Olivia Walker,Electronics,Monitor,"LG UltraFine 27""",2,500,1000,0.1,210,North America
+117,21-01-2024,Liam Scott,Furniture,Desk,Standing Desk,2,450,900,0.08,200,Europe
+118,22-01-2024,Ava Hall,Clothing,Sweater,Wool Sweater,3,70,210,0.1,60,Asia
+119,23-01-2024,Noah Allen,Electronics,TV,"Samsung 55"" OLED",1,1800,1800,0.12,400,South America
+120,24-01-2024,Isabella Young,Furniture,Bookshelf,Modern Bookshelf,2,250,500,0.05,120,Africa
+121,25-01-2024,Ethan King,Electronics,Mouse,Logitech MX Master 3S,5,100,500,0.07,90,Europe
+122,26-01-2024,Charlotte Wright,Clothing,Hat,New Era Cap,4,40,160,0.15,35,North America
+123,27-01-2024,Henry Green,Electronics,Speakers,Bose SoundLink,2,300,600,0.1,140,Asia
+124,28-01-2024,Amelia Adams,Furniture,Dining Table,Glass Dining Table,1,1100,1100,0.09,250,South America
+125,29-01-2024,Jack Nelson,Clothing,Socks,Nike Sports Socks,10,15,150,0.05,30,Africa
